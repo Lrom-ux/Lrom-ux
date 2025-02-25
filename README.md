@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋 My name is Lesther
+- 🔭 I’m currently working on roadmap c++
+- 🌱 I’m currently learning C++
+- ⚡ Fun fact: this is my first time editing a readme file sooo sorry for been a little simple with the formats and emojis, in my journy learning about programing i will make this better.
+- 📫 How to reach me: lesther.orozconi@gmail.com
 <!--
 **Lrom-ux/Lrom-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
